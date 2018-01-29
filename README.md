@@ -30,7 +30,7 @@ Improve UI
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/RHyuP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/YPTpcac.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
